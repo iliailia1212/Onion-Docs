@@ -226,7 +226,7 @@ opkg update
 And then install `python-pyserial`:
 
 ```
-opkg python-pyserial
+opkg install python-pyserial
 ```
 
 You'll now be able to use PySerial!
